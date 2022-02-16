@@ -17,5 +17,11 @@ For contact email me 📧: 2014751043@uits.edu.bd
 ### Total Visitors 👀
 <img src="https://profile-counter.glitch.me/MdSalimulHaqRoni/count.svg" alt="Visitor Count"/>
 
-### 👨‍💻 My stats
-<img src = "https://metrics.lecoq.io/MdSalimulHaqRoni?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&stackoverflow=1&people=1&isocalendar.duration=full-year&people.limit=28&people.size=28&people.types=followers&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&stackoverflow.user=11928455&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FDhaka"/>
+### Connect with me:
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mdsalimulhaqroni/) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ronyerahaman) 
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@ynorynor) 
+[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/user/18226417/md-salimul-haq-roni)
+
+<br />
