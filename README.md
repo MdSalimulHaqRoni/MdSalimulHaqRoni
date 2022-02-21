@@ -1,6 +1,6 @@
 # Hi everyone 🙋‍♂
 
-I'm Md Salimul Haq Roni a passionate programmer. Python is the first choice for me while it comes to programming. I also do code in C, C++, JavaScript. love to learning new thing, addicted to learn machine learning
+I'm Md Salimul Haq Roni a passionate programmer. Python is the first choice for me while it comes to programming. I also do code in C, C++, JavaScript. love to learning new thing, addicted to learn machine learning.
 For contact email me 📧: 2014751043@uits.edu.bd
 
 ### 🏆 Github Stats
